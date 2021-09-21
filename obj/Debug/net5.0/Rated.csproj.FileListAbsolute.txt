@@ -1,0 +1,16 @@
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\Rated.exe
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\Rated.deps.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\Rated.runtimeconfig.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\Rated.runtimeconfig.dev.json
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\Rated.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\ref\Rated.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\bin\Debug\net5.0\Rated.pdb
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.AssemblyInfoInputs.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.AssemblyInfo.cs
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.csproj.CoreCompileInputs.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\ref\Rated.dll
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.pdb
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.genruntimeconfig.cache
+C:\Users\GBENGAOLANIPEKUN\Desktop\rated\obj\Debug\net5.0\Rated.csproj.AssemblyReference.cache
